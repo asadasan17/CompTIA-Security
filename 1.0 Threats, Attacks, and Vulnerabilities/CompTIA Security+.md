@@ -1,4 +1,4 @@
-##Sosial Engineering
+##1.1 Type Sosial Engineering
 
 	#Phising
 	Phishing is the process of attempting to obtain sensitive information in electronic communications. Phishing used for obtain sensitive, confidential, or private information.  Phishing can be waged using any communication means using Email, SMS, Telphon. There some kind type of Phising : 
@@ -65,7 +65,7 @@
             2. One means of clickjacking is to add an invisible or hidden overlay, frame, or image map over the displayed page
 
     # Pretexting
-        1. Pretexting is a certain type of social engineering technique that manipulates victims into divulging(reveal) information
+        1. Pretexting is a certain type of social engineering technique that manipulates victims into divulging information
         2. During pretexting attacks, threat actors typically ask victims for certain information, stating that it is needed to confirm the victim’s identity
         3. Pretexters use a variety of tactics and techniques to gain the trust of their targets and convince them to hand over valuable information, example Impresonation, Phising, Vishing, Smishing, Tailgating, Baiting. 
     
@@ -169,3 +169,17 @@
         7. Urgency
             + Urgency often dovetails with scarcity, because the need to act quickly increases as scarcityindicates a greater risk of missing out
             + Urgency is often used as a method to get a quick response from a target before they have time to carefully consider or refuse compliance
+
+## 1.2 Type Attack 
+
+## 1.3 Application Attack
+
+## 1.4 Network Attacks
+
+## 1.5 Threat Actors, Vector, Intelligence Source
+
+## 1.6 Type Vulnerability
+
+## 1.7 Summarize Security Assesments 
+
+## 1.8 Techniques Penetration Testing
